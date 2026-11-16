@@ -1,5 +1,4 @@
-import json
-import csv
+import json,csv
 
 product = {}
 next_id = 1
